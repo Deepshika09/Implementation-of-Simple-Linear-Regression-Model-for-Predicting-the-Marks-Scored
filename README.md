@@ -1,4 +1,4 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+<img width="192" height="130" alt="319848309-ea9cb89a-f4b8-473d-84b8-1f92b2ee64a2" src="https://github.com/user-attachments/assets/d8be8608-5306-426c-8829-b9645ef47686" /># Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -69,12 +69,12 @@ print("Root Mean Square Error = ",rmse)
 ## Output:
 
 df.head()
+<img width="157" height="126" alt="319848276-5968514c-05e2-4d71-b132-b0acea5efd47" src="https://github.com/user-attachments/assets/bc4570a5-0983-4df6-8e18-b2678c710b2b" />
 
-![dfhead](https://user-images.githubusercontent.com/119393424/229978451-2b6bdc4f-522e-473e-ae2f-84ec824344c5.png)
 
 df.tail()
+<img width="192" height="130" alt="319848309-ea9cb89a-f4b8-473d-84b8-1f92b2ee64a2" src="https://github.com/user-attachments/assets/d35da269-3bdc-4120-83ab-42e6ab39abb3" />
 
-![dftail](https://user-images.githubusercontent.com/119393424/229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683.png)
 
 Array value of X
 
