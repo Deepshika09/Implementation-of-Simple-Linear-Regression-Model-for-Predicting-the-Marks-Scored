@@ -68,6 +68,8 @@ print("Root Mean Square Error = ",rmse)
 ## Output:
 
 df.head()
+
+
 <img width="157" height="126" alt="319848276-5968514c-05e2-4d71-b132-b0acea5efd47" src="https://github.com/user-attachments/assets/bc4570a5-0983-4df6-8e18-b2678c710b2b" />
 
 
