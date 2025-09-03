@@ -73,6 +73,8 @@ df.head()
 
 
 df.tail()
+
+
 <img width="192" height="130" alt="319848309-ea9cb89a-f4b8-473d-84b8-1f92b2ee64a2" src="https://github.com/user-attachments/assets/d35da269-3bdc-4120-83ab-42e6ab39abb3" />
 
 
